@@ -1,6 +1,6 @@
-Here's a structured README format for the Diet Analysis project:
 
----
+
+
 
 # Diet Analysis Project
 
